@@ -89,13 +89,6 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
                   : HomePageWidget(),
             ),
             FFRoute(
-              name: 'BookMarkedPage',
-              path: 'bookMarkedPage',
-              builder: (context, params) => params.isEmpty
-                  ? NavBarPage(initialPage: 'BookMarkedPage')
-                  : BookMarkedPageWidget(),
-            ),
-            FFRoute(
               name: 'ArticalPage',
               path: 'articalPage',
               asyncParams: {
@@ -104,6 +97,13 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
               builder: (context, params) => ArticalPageWidget(
                 newRef: params.getParam('newRef', ParamType.Document),
               ),
+            ),
+            FFRoute(
+              name: 'BookMarkedPage',
+              path: 'bookMarkedPage',
+              builder: (context, params) => params.isEmpty
+                  ? NavBarPage(initialPage: 'BookMarkedPage')
+                  : BookMarkedPageWidget(),
             ),
             FFRoute(
               name: 'MarketPage',
