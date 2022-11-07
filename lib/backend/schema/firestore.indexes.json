@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "newsDetails",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "category",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "uploaded_time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "newsDetails",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "category",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "heading",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

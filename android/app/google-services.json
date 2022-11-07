@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "453334733585",
+    "project_id": "newfinshots",
+    "storage_bucket": "newfinshots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453334733585:android:85f87d8136fb20c3ca72b0",
+        "android_client_info": {
+          "package_name": "com.mycompany.anujeshfinshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453334733585-9atr5i64im4tkjqn0a84cj8blgoptgc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.anujeshfinshot",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "453334733585-cf4bj9fjf651rflrd24lu4shcs9q6gft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOE6_feCv9r0K3Ok9usfcCQhOBszBcL6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453334733585-cf4bj9fjf651rflrd24lu4shcs9q6gft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453334733585-63qbfmhcjv37v0psr2jmj1eje3dianla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.anujeshfinshot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453334733585:android:ea094d802f9da6b7ca72b0",
+        "android_client_info": {
+          "package_name": "com.thordevelopers.anujeshfinshot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453334733585-bk0bpnd88goaql0lqr4t2skl40tm8l6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thordevelopers.anujeshfinshot",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "453334733585-cf4bj9fjf651rflrd24lu4shcs9q6gft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOE6_feCv9r0K3Ok9usfcCQhOBszBcL6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453334733585-cf4bj9fjf651rflrd24lu4shcs9q6gft.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453334733585-63qbfmhcjv37v0psr2jmj1eje3dianla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.anujeshfinshot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
