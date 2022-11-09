@@ -58,6 +58,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "453334733585-bie462f31tlmk5el4c0ks68usgs3mj0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thordevelopers.anujeshfinshot",
+            "certificate_hash": "acb76218725ca89a7ea3bc367e543df295b152fc"
+          }
+        },
+        {
           "client_id": "453334733585-bk0bpnd88goaql0lqr4t2skl40tm8l6m.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
